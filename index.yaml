@@ -3,9 +3,9 @@ entries:
   app-a:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-10-07T10:20:51.318534+02:00"
+    created: "2019-10-07T11:54:15.945487+02:00"
     description: A Helm chart for Kubernetes
-    digest: 8a5ca92da7623c2286b916bbd37bb0a6cd8d2b36da58219b82098c91fb0f84cb
+    digest: 2b1ae02568cef923b7ea9f1b0b64e4e089b30edf1a802c01176b78c98c3c8950
     name: app-a
     urls:
     - app-a-1.0.0.tgz
@@ -13,9 +13,9 @@ entries:
   app-b:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-10-07T10:20:51.318935+02:00"
+    created: "2019-10-07T11:54:15.946002+02:00"
     description: A Helm chart for Kubernetes
-    digest: 495713c570fc1b3735023a19bff8713568d8370a3772148aee9f813993147541
+    digest: e7e6044f21c2063fd30d874ab1d9b1a75c473fbd5760f4bdc3a54edb0a09d589
     name: app-b
     urls:
     - app-b-1.0.0.tgz
@@ -23,11 +23,11 @@ entries:
   app-c:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-10-07T10:20:51.319273+02:00"
+    created: "2019-10-07T11:54:15.946383+02:00"
     description: A Helm chart for Kubernetes
-    digest: f7c221b3780e7a8df4b85ba8f61f42479390332083331ff0339688e0383f1b11
+    digest: 5a253726a786eb6b1933436a2e8973fdde4e5c9710619373712ce187c962c463
     name: app-c
     urls:
     - app-c-1.0.0.tgz
     version: 1.0.0
-generated: "2019-10-07T10:20:51.317838+02:00"
+generated: "2019-10-07T11:54:15.944752+02:00"
